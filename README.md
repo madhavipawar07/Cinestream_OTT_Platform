@@ -57,7 +57,7 @@ S3 Storage
 
 # Output
 
-<img width="1918" height="922" alt="Screenshot 2026-06-26 113117" src="https://github.com/user-attachments/assets/b3448c1b-b3ed-4de0-8dcb-71aa0cbfa17b" />
+<img width="1918" height="912" alt="Screenshot 2026-06-26 113041" src="https://github.com/user-attachments/assets/2def6cef-30ec-4081-8c5f-89093c658dfa" />
 
 <img width="1918" height="922" alt="Screenshot 2026-06-26 113117" src="https://github.com/user-attachments/assets/56d04504-7906-44ca-ae03-836e8c8ad221" />
 
