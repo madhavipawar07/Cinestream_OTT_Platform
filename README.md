@@ -24,7 +24,6 @@ The OTT Platform is a cloud-based video streaming web application developed usin
 - AWS S3
 - API Gateway
 - AWS Lambda
-- DynamoDB
 - Boto3
 
 ## AWS Services
