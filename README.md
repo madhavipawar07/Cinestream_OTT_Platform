@@ -2,7 +2,7 @@
 
 ## Overview
 
-The OTT Platform is a cloud-based video streaming web application developed using AWS Cloud services. It allows users to browse movies, watch trailers, and stream videos stored in Amazon S3.
+The OTT Platform is a cloud-based video streaming web application developed using AWS Cloud services and hosted on EC2 server. It allows users to browse movies, watch trailers, and stream videos stored in Amazon S3.
 
 ## Features
 
@@ -53,6 +53,10 @@ Lambda
 ↓
 
 S3 Storage
+
+## Live Demo
+
+13.127.166.67
 
 # Output
 
